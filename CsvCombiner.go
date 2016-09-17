@@ -1,5 +1,7 @@
 package main
 
+//GOOS=windows GOARCH=386 go build -o hello.exe hello.go
+
 import (
 	"bufio"
 	"encoding/csv"
