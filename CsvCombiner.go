@@ -1,6 +1,6 @@
 package main
 
-//GOOS=windows GOARCH=386 go build -o CsvCombiner.exe CsvCombiner.go
+// GOOS=windows GOARCH=386 go build -o CsvCombiner.exe CsvCombiner.go
 
 import (
 	"bufio"
